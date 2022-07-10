@@ -26,6 +26,9 @@ Users can use the human-in-loop design to define tags and dictionaries. The tag 
 ## Defining the Dictionary
 <img width="1187" alt="Screen Shot 2022-07-10 at 4 49 02 PM" src="https://user-images.githubusercontent.com/22947142/178138006-1cb8f0d3-c4ee-41cb-bb6f-e7e1c47a1e1e.png">
 
+# Interactive Search
+As for the query "What is the allowable deviation of pit depth for tower", the system will recommend the query "What is the allowable deviation of pit depth for tower in the construction of 800kv Overhead Transmission Line". Here "800kv" and "Overhead Transmission Line" are two tags. The system recommends two tags during the user-input-query and comes out with more precise answers with the user's expectation. 
+
 # Search Engine
 <img width="1246" alt="Screen Shot 2022-07-10 at 4 03 07 PM" src="https://user-images.githubusercontent.com/22947142/178137712-6e7abfe9-4f48-4519-9358-f4679459b27e.png">
 <img width="1246" alt="Screen Shot 2022-07-10 at 4 02 57 PM" src="https://user-images.githubusercontent.com/22947142/178137715-e7d4b32a-f66f-4f66-a402-fe8caed2944a.png">
