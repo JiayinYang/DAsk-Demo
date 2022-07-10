@@ -7,7 +7,7 @@ This repository contains the demonstration video for our paper DAsk: Human-in-th
 
 # Knowledge Processing
 
-Paragraphs and question-answer pairs can be generated automatically. Users can use the human-in-loop annotation to improve the system accuracy. We use the published standard "Q/GDW 10225-2018 Code for construction and acceptance of ±800kV overhead transmission line."[1] as an example.
+Paragraphs and question-answer pairs can be generated automatically. Users can use the human-in-loop annotation to improve the system accuracy. For demonstration, we use section 1-3 of the published standard "Q/GDW 10225-2018 Code for construction and acceptance of ±800kV overhead transmission line."[1] as an example.
 
 ## Paragraph Generation
 <img width="1154" alt="Screen Shot 2022-07-10 at 4 01 51 PM" src="https://user-images.githubusercontent.com/22947142/178137699-8bf4c1f9-696f-4f1a-961b-f7edbddb26b1.png">
