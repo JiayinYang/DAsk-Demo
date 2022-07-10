@@ -7,7 +7,7 @@ This repository contains the demonstration video for our paper DAsk: Human-in-th
 
 # Knowledge Processing
 
-Paragraphs and question-answer pairs can be generated automatically. Users can use the human-in-loop annotation to improve the system accuracy.
+Paragraphs and question-answer pairs can be generated automatically. Users can use the human-in-loop annotation to improve the system accuracy. We use the published standard "Q/GDW 10225-2018 Code for construction and acceptance of ±800kV overhead transmission line."[1] as an example.
 
 ## Paragraph Generation
 <img width="1154" alt="Screen Shot 2022-07-10 at 4 01 51 PM" src="https://user-images.githubusercontent.com/22947142/178137699-8bf4c1f9-696f-4f1a-961b-f7edbddb26b1.png">
@@ -30,6 +30,8 @@ Users can use the human-in-loop design to define tags and dictionaries. The tag 
 <img width="1246" alt="Screen Shot 2022-07-10 at 4 03 07 PM" src="https://user-images.githubusercontent.com/22947142/178137712-6e7abfe9-4f48-4519-9358-f4679459b27e.png">
 <img width="1246" alt="Screen Shot 2022-07-10 at 4 02 57 PM" src="https://user-images.githubusercontent.com/22947142/178137715-e7d4b32a-f66f-4f66-a402-fe8caed2944a.png">
 
+# Citation
+[1] Q/GDW 10225-2018 Code for construction and acceptance of ±800kV overhead transmission line. BZW86.com. (2020, January 12). Retrieved July 9, 2022, from https://www.bzw86.com/202959.html 
 
 
 
